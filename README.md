@@ -1,5 +1,3 @@
----
-
 # **TiME – Track. Improve. Manage. Execute.**
 
 **TiME** is a beautifully minimal time-tracking and focus management app designed by **TiME Discipline Ltd.**
